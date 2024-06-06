@@ -1,3 +1,0 @@
-## Javascript advanced questions:
-
-### SOON :)
