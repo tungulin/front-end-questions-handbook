@@ -145,4 +145,4 @@ console.log("Call 11");
 
 Если вам понравилась данная статья - советую прочитать статью [Распространенные вопросы: Javascript](./javascript-common-questions.md).
 
-Moй [Github](https://gist.github.com/jbsulli/03df3cdce94ee97937ebda0ffef28287). Рад сотрудничеству и обмену опыта!
+Moй [Github](https://github.com/tungulin). Рад сотрудничеству и обмену опыта!
