@@ -68,8 +68,10 @@ console.log("Call 4:");
 2. Микротаски (Micro task)
 3. Задачи отрисовки (Render task)
 
-<!--todo: Побольше описать что относится к макротаскам -->
-К микротаскам относятся:  промисы (.then/catch/finall), а [также Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+<!--todo: Побольше описать что относится к макротаскам - queueMicrotask, Intersection Observer -->
+К микротаскам относятся: Promise (.then/catch/finall), [также Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API), [queueMicrotask](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+
+
 
 К макротаскам относятся все остальное: setTimeout, XmlHTTPRequest и так далее.
 
